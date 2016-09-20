@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6f6366d7-98f5-4063-b8a8-cacfe25d6b5a" name="https://github.com/VivekBhat/my-new-repo.git" url="https://github.com/VivekBhat/my-new-repo.git">
+        <fileTransfer host="https://github.com/VivekBhat/my-new-repo.git" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
