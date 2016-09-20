@@ -5,6 +5,7 @@ class CreateRecipes < ActiveRecord::Migration[5.0]
       t.string :description
       t.text :instruction
 
+      t.references :category
       t.timestamps
     end
   end
